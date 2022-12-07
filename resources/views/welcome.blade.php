@@ -7,8 +7,8 @@
         <div class="row align-items-center g-5">
             <div class="col-lg-6 text-center text-lg-start">
                 <h1 class="display-3 text-white animated slideInLeft"> <b>Enjoy Our<br>Delicious Food</b>  </h1>
-                <p class="text-white animated slideInLeft mb-4 pb-2">Have a good eat and enjoy it!! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam temporibus, et quo ducimus voluptatum quam saepe, amet, in voluptates suscipit ipsum delectus est dolor ipsa dignissimos illum rerum eum. Quos.</p>
-                <a href="menu" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Mulai Pesan</a>
+                <p class="text-white animated slideInLeft mb-4 pb-2">Eat Well and Pamper Yourself With Doeat </p>
+                <a href="menu" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Order Now</a>
             </div>
             <div class="col-lg-6 text-center text-lg-end overflow-hidden justify-content-center">
                 <img class="img-fluid" style="width: 450px;" src="img/hero.png" alt="" >
